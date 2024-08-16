@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1717586124 source:c:\users\tomas\desktop\pentesting y programacion\codeblocks\projecto final\funcion randoms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719172001 source:c:\users\tomas\desktop\codeblocks\archivosdepersonajes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
